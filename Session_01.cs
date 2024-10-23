@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TRANLEHUY_31231027140_24C1INF50900503
-{
+{/*
     public class Session_01
     {
         public static void Main()
@@ -119,4 +119,4 @@ namespace TRANLEHUY_31231027140_24C1INF50900503
             Console.Write($"{d} days = {y} years, {w} weeks,{ds} days");
         }
     }
-}
+*/}

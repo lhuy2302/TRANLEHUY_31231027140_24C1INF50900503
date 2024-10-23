@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TRANLEHUY_31231027140_24C1INF50900503
-{
+{/*
     internal class Session_02
     {
         public static void Main()
@@ -55,4 +55,4 @@ namespace TRANLEHUY_31231027140_24C1INF50900503
         }
     }
 
-}
+*/}
